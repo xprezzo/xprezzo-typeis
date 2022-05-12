@@ -149,6 +149,10 @@ app.use(function bodyParser (req, res, next) {
 })
 ```
 
+## People
+
+Xprezzo and related projects are maintained by [Cloudgen Wong](mailto:cloudgen.wong@gmail.com).
+
 ## License
 
 [MIT](LICENSE)
